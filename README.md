@@ -1,6 +1,6 @@
 # great_places
 
-Projeto realizado durantes as aulas do curso de Flutter da Cod3r.
+Projeto realizado durante as aulas do curso de Flutter da Cod3r.
 
 
 ## Getting Started
