@@ -1,6 +1,7 @@
 # great_places
 
-A new Flutter project.
+Projeto realizado durantes as aulas do curso de Flutter da Cod3r.
+
 
 ## Getting Started
 
